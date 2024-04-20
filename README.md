@@ -1,3 +1,12 @@
+# simplemusicplayer
+
+简易点歌器，防止插队
+
+# 许可证 / License
+GPL-3.0.
+
+# 下面不用看
+
 # bxvideoplayer
 
 简易bilibili(哔哩哔哩)视频播放器
